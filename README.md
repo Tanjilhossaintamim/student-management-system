@@ -1,2 +1,2 @@
 # student-management-system
-this app will store student data and picture.this is python made application .
+this app able to store student data and their picture.this is a python made application .
